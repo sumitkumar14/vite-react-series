@@ -1,7 +1,7 @@
 # tvshows-list-details
 ## About
-Application is built using React.js a progressive javascript framework created by Evan You.
-We used Jest for testing purpose.We used vue.js over other frameworks because of its complete easy to use ecosystem, fast compilation, easy learning curve and its easy to use syntax which gives upper hand over other frameworks in writing code faster.Application is about the tv shows on different genres and user can see the details about the particular show as well as search a show using its name.
+Application is built using React.js a progressive javascript library created by Jordan Walke at facebook.
+We used Jest for testing purpose.We used react.js over other frameworks because of its popularity and easy to use ecosystem, fast compilation, easy learning curve and its easy to use syntax which gives upper hand over other frameworks in writing code faster.Application is about the tv shows on different genres and user can see the details about the particular show as well as search a show using its name.
 
 ## Project setup
 ```
@@ -18,12 +18,17 @@ v20.10.0
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run dev
 ```
 
 ### Compiles and minifies for production
 ```
 npm run build
+```
+
+### Compiled and minified for production view
+```
+npm run preview
 ```
 
 ### Run your unit tests
@@ -36,9 +41,9 @@ npm run test:unit
 npm run lint
 ```
 
-### Access App using url
+### Access Application
 ```
-https://vite-react-series.web.app
+visit [Web App](https://vite-react-series.web.app).
 ```
 
 
