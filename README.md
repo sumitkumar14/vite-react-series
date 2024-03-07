@@ -42,9 +42,7 @@ npm run lint
 ```
 
 ### Access Application
-```
-visit [Web App](https://vite-react-series.web.app).
-```
+Visit [Web App](https://vite-react-series.web.app).
 
 
 
